@@ -41,6 +41,10 @@ The visualizations included in this repository aim to provide a comprehensive ov
 
 To view the reports, you can download the images from the repository and open them using any image viewer. The reports provide detailed insights and can be used for further analysis and decision-making.
 
+## To view original dashboard
+
+https://app.powerbi.com/groups/me/reports/72e1bb10-ba2e-46f9-8c4d-c505b424e1dc/ReportSection5748e42018c90733abfb?experience=power-bi
+
 ## Contributing
 
 If you would like to contribute to this repository, please follow these steps:
